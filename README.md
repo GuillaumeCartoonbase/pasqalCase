@@ -1,11 +1,11 @@
-# **[Live demo idle](https://rive.app/s/GkIOZ09BWUW9801H3HTtPw/embed)**
+# **[Live demo idle](https://rive.app/s/omiTBY-890KfXhpbfIeo0g/embed)**
 
 ```html
 <iframe
 	style="border: none"
 	width="1920"
 	height="1084"
-	src="https://rive.app/s/GkIOZ09BWUW9801H3HTtPw/embed"
+	src="https://rive.app/s/omiTBY-890KfXhpbfIeo0g/embed"
 	allowfullscreen
 	allow="autoplay"
 ></iframe>
