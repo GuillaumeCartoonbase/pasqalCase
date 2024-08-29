@@ -1,5 +1,6 @@
-# **[Live demo idle](https://guillaumecartoonbase.github.io/pasqalCase/embed.html)**
+# **[Live demo idle](https://rive.app/s/7wv1uEA7DkmXXlrLAjQQxw/embed)**
 
+```html
 <iframe
 	style="border: none"
 	width="192"
@@ -8,6 +9,7 @@
 	allowfullscreen
 	allow="autoplay"
 ></iframe>
+```
 
 # **[Live demo UX](https://guillaumecartoonbase.github.io/pasqalCase/)**
 
