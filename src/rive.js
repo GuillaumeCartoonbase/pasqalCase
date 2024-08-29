@@ -89,6 +89,9 @@ const eventFire = (riveEvent) => {
 
 		// logic when marble arrives
 		case "On":
+			inputLessonsDone[eventIndex - 1].value = true;
+			lessonCounter();
+
 			inputMarbleHover.value = true;
 
 			riveInstance.setBooleanStateAtPath(
