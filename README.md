@@ -1,6 +1,6 @@
 # **[Live demo idle](https://rive.app/s/omiTBY-890KfXhpbfIeo0g/embed)**
 
-[html version](./embed.html)
+[html version](https://guillaumecartoonbase.github.io/pasqalCase/embed.html)
 
 ```html
 <iframe
