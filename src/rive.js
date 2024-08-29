@@ -1,4 +1,4 @@
-const stateMachine = "Floor 3";
+const stateMachine = "Floor 3 - demo";
 
 // Create Rive
 const riveInstance = new rive.Rive({
