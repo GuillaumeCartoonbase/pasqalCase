@@ -1,5 +1,7 @@
 # **[Live demo idle](https://rive.app/s/omiTBY-890KfXhpbfIeo0g/embed)**
 
+[html version](./embed.html)
+
 ```html
 <iframe
 	style="border: none"
