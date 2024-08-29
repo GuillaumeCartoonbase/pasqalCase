@@ -1,6 +1,6 @@
-# **[Live demo](https://guillaumecartoonbase.github.io/pasqalCase/)**
+# **[Live demo UX](https://guillaumecartoonbase.github.io/pasqalCase/)**
 
-# Start the marble
+## Start the marble
 
 To start the marble, use
 `launchMarble.fire()`
