@@ -17,3 +17,7 @@
 
 To start the marble, use
 `launchMarble.fire()`
+
+## In depth documentation
+
+Go to [the floor 3 documentation](https://github.com/GuillaumeCartoonbase/Pasqal-Floor_3/blob/main/README.md) for the full documentation.
