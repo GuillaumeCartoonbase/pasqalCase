@@ -59,6 +59,8 @@ function onLoadHandler() {
 	triggerNextLevel = inputs.find((i) => i.name === "Trigger Next Level");
 
 	inputLessonsCounter = inputs.find((i) => i.name === "lessonCounter");
+
+	launchMarble = inputs.find((i) => i.name === "launchMarble");
 }
 
 // Resize the drawing surface if the window resizes
