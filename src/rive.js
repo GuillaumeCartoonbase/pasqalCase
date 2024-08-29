@@ -2,7 +2,7 @@ const stateMachine = "Floor 3 - demo";
 
 // Create Rive
 const riveInstance = new rive.Rive({
-	src: "src/floor 3 demo.riv", //get rive file
+	src: "src/floor 3 case.riv", //get rive file
 	canvas: document.getElementById("rive"), //get correct canvas
 	autoplay: true,
 	stateMachines: stateMachine, // get correct stateMachine
